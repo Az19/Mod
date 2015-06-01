@@ -14077,7 +14077,7 @@ msgstr ""
 #: STRINGS.UI.MONST3R.NOBUY.1
 msgctxt "STRINGS.UI.MONST3R.NOBUY.1"
 msgid "Having second thoughts? You're lucky I have such a generous return policy."
-msgstr "已经重新考虑好了？你是幸运的我如此慷慨的退换政策"
+msgstr "已经重新考虑好了？你是幸运的我有如此慷慨的退换政策"
 
 #: STRINGS.UI.MONST3R.NOBUY.2
 msgctxt "STRINGS.UI.MONST3R.NOBUY.2"
@@ -14112,12 +14112,12 @@ msgstr "我只是想要尽力帮忙"
 #: STRINGS.UI.MONST3R.NOSELL.1
 msgctxt "STRINGS.UI.MONST3R.NOSELL.1"
 msgid "You're lucky I didn't call 'no take-backs'."
-msgstr ""
+msgstr "你是幸运的。我不叫做'无法挽回'"
 
 #: STRINGS.UI.MONST3R.NOSELL.2
 msgctxt "STRINGS.UI.MONST3R.NOSELL.2"
 msgid "Pity. I already had another buyer in mind."
-msgstr ""
+msgstr "在我头脑中已经有了另一位买家了。"
 
 #: STRINGS.UI.MONST3R.NOSELL.3
 msgctxt "STRINGS.UI.MONST3R.NOSELL.3"
@@ -14147,7 +14147,7 @@ msgstr "不论你想的是什么都是最好的"
 #: STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.1
 msgctxt "STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.1"
 msgid "Keep this short - I can't afford pulling down any more heat at the moment."
-msgstr ""
+msgstr "长话短说-目前我不能减少更多的热量了。"
 
 #: STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.2
 msgctxt "STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.2"
@@ -14157,17 +14157,17 @@ msgstr ""
 #: STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.3
 msgctxt "STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.3"
 msgid "The cupboard is bare, friend. Lucky for you, it's a seller's market."
-msgstr ""
+msgstr "朋友,橱柜是空的。你真是幸运，这是一个卖方市场"
 
 #: STRINGS.UI.MONST3R.OPEN_SPECIAL.1
 msgctxt "STRINGS.UI.MONST3R.OPEN_SPECIAL.1"
 msgid "I've got something you might be interested in. I need a quick decision - this thing's hot."
-msgstr ""
+msgstr "我已经得到你感兴趣的"
 
 #: STRINGS.UI.MONST3R.OPEN_SPECIAL.2
 msgctxt "STRINGS.UI.MONST3R.OPEN_SPECIAL.2"
 msgid "I'm taking a big risk selling to you right now. Don't make me regret it."
-msgstr ""
+msgstr "我现在冒着巨大的风险卖东西给你。希望你的价格不要让我感到后悔"
 
 #: STRINGS.UI.MONST3R.OPEN_SPECIAL.3
 msgctxt "STRINGS.UI.MONST3R.OPEN_SPECIAL.3"
@@ -14202,7 +14202,7 @@ msgstr "感谢您的交易"
 #: STRINGS.UI.MONST3R.SELL_ITEM.10
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.10"
 msgid "I should charge you a cleaning fee. This still has some blood on it."
-msgstr ""
+msgstr "我应该向你索要一笔清洁费。现在还有一些血在上面"
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.2
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.2"
@@ -14212,12 +14212,12 @@ msgstr ""
 #: STRINGS.UI.MONST3R.SELL_ITEM.3
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.3"
 msgid "I'll find a good home for this."
-msgstr ""
+msgstr "我将为此找到一个好的家"
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.4
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.4"
 msgid "I should be able to move this and make a tidy profit."
-msgstr ""
+msgstr "我应该移动它然后获得一笔可观的利润"
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.5
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.5"
@@ -14242,7 +14242,7 @@ msgstr ""
 #: STRINGS.UI.MONST3R.SELL_ITEM.9
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.9"
 msgid "The more you buy and sell, the closer I get to retirement. Funny how the house always wins."
-msgstr ""
+msgstr "你买卖的越多，我退休越快。"
 
 #: STRINGS.UI.MONST3R_TITLE
 msgctxt "STRINGS.UI.MONST3R_TITLE"
@@ -14267,7 +14267,7 @@ msgstr ""
 #: STRINGS.UI.MONSTER_CATSHOP_POST.4
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_POST.4"
 msgid "Don't say I didn't warn you. Pity you can't get that gear anywhere else."
-msgstr ""
+msgstr "不要说我没有警告你。你再不能在任何地方得到那个装置了"
 
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.1
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.1"
@@ -14277,12 +14277,12 @@ msgstr ""
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.2
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.2"
 msgid "Here, kitty kitty."
-msgstr ""
+msgstr "这里 kitty kitty"
 
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.3
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.3"
 msgid "Be careful, she likes to play with her food before she eats it."
-msgstr ""
+msgstr "小心，她喜欢在吃掉她的食物之前玩弄它们"
 
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.4
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.4"
@@ -14292,7 +14292,7 @@ msgstr ""
 #: STRINGS.UI.NET_WORTH
 msgctxt "STRINGS.UI.NET_WORTH"
 msgid "NET WORTH: %d"
-msgstr ""
+msgstr "资本净值: %d"
 
 #: STRINGS.UI.NEW_GAME
 msgctxt "STRINGS.UI.NEW_GAME"
@@ -14337,7 +14337,7 @@ msgstr "这个位置被敌人注意到了"
 #: STRINGS.UI.NOT_PAID
 msgctxt "STRINGS.UI.NOT_PAID"
 msgid "NOT_PAID"
-msgstr ""
+msgstr "没有付清"
 
 #: STRINGS.UI.NO_BONUS
 msgctxt "STRINGS.UI.NO_BONUS"
@@ -14377,27 +14377,27 @@ msgstr ""
 #: STRINGS.UI.PRERELEASE_COMPAT_TITLE
 msgctxt "STRINGS.UI.PRERELEASE_COMPAT_TITLE"
 msgid "SAVE GAME COMPATIBILITY"
-msgstr ""
+msgstr "保存游戏兼容性"
 
 #: STRINGS.UI.PRERELEASE_COMPAT_YES
 msgctxt "STRINGS.UI.PRERELEASE_COMPAT_YES"
 msgid "Keep XP"
-msgstr ""
+msgstr "保持 XP"
 
 #: STRINGS.UI.PREV
 msgctxt "STRINGS.UI.PREV"
 msgid "< PREV"
-msgstr ""
+msgstr "< 上一个"
 
 #: STRINGS.UI.PROGRAMS_ACQUIRED
 msgctxt "STRINGS.UI.PROGRAMS_ACQUIRED"
 msgid "PROGRAMS ACQUIRED"
-msgstr ""
+msgstr "已获得的程序"
 
 #: STRINGS.UI.PROGRAMS_EARNED
 msgctxt "STRINGS.UI.PROGRAMS_EARNED"
 msgid "PROGRAMS EARNED"
-msgstr ""
+msgstr "挣得的程序"
 
 #: STRINGS.UI.PUTTING_AUGMENT_IN_INVENTORY
 msgctxt "STRINGS.UI.PUTTING_AUGMENT_IN_INVENTORY"
@@ -14412,7 +14412,7 @@ msgstr "A D V A N C E D  C O R P O R A T E  E Q U I P M E N T"
 #: STRINGS.UI.PWR_DRAIN_ALERT_TITLE
 msgctxt "STRINGS.UI.PWR_DRAIN_ALERT_TITLE"
 msgid "POWER REVERSAL NODE"
-msgstr ""
+msgstr "PWR逆转节点"
 
 #: STRINGS.UI.PWR_DRAIN_ALERT_TXT
 msgctxt "STRINGS.UI.PWR_DRAIN_ALERT_TXT"
@@ -14432,12 +14432,12 @@ msgstr "你确定要离开游戏？"
 #: STRINGS.UI.REASON.ALREADY_DEPLOYED
 msgctxt "STRINGS.UI.REASON.ALREADY_DEPLOYED"
 msgid "Already something deployed"
-msgstr ""
+msgstr "已经部署其他部件了"
 
 #: STRINGS.UI.REASON.ALREADY_EQUIPPED
 msgctxt "STRINGS.UI.REASON.ALREADY_EQUIPPED"
 msgid "Already Equipped"
-msgstr ""
+msgstr "已经装备了"
 
 #: STRINGS.UI.REASON.ALREADY_HACKING
 msgctxt "STRINGS.UI.REASON.ALREADY_HACKING"
@@ -14447,12 +14447,12 @@ msgstr ""
 #: STRINGS.UI.REASON.ALREADY_PRIMED
 msgctxt "STRINGS.UI.REASON.ALREADY_PRIMED"
 msgid "ALREADY PRIMED"
-msgstr ""
+msgstr "添装完毕"
 
 #: STRINGS.UI.REASON.ALREADY_TRAPPED
 msgctxt "STRINGS.UI.REASON.ALREADY_TRAPPED"
 msgid "Already Trapped"
-msgstr ""
+msgstr "已经捕获"
 
 #: STRINGS.UI.REASON.ALREADY_USED
 msgctxt "STRINGS.UI.REASON.ALREADY_USED"
@@ -14477,12 +14477,12 @@ msgstr ""
 #: STRINGS.UI.REASON.BAD_TARGET_RANGE
 msgctxt "STRINGS.UI.REASON.BAD_TARGET_RANGE"
 msgid "INVALID TARGET: Out of range"
-msgstr ""
+msgstr "无效目标:超出范围 "
 
 #: STRINGS.UI.REASON.BAD_TARGET_VIZ
 msgctxt "STRINGS.UI.REASON.BAD_TARGET_VIZ"
 msgid "INVALID TARGET: Area not revealed"
-msgstr ""
+msgstr "无效目标: 区域未显示"
 
 #: STRINGS.UI.REASON.BLOCKED
 msgctxt "STRINGS.UI.REASON.BLOCKED"
@@ -14497,12 +14497,12 @@ msgstr ""
 #: STRINGS.UI.REASON.CANT_ABANDON
 msgctxt "STRINGS.UI.REASON.CANT_ABANDON"
 msgid "Can't abandon the team!"
-msgstr "不能遗弃队伍"
+msgstr "不能放弃队伍"
 
 #: STRINGS.UI.REASON.CANT_CARRY
 msgctxt "STRINGS.UI.REASON.CANT_CARRY"
 msgid "No inventory"
-msgstr "没有库存了"
+msgstr "没有库存"
 
 #: STRINGS.UI.REASON.CANT_CLOAK_IN_VISION
 msgctxt "STRINGS.UI.REASON.CANT_CLOAK_IN_VISION"
@@ -14522,7 +14522,7 @@ msgstr "不能逃跑！"
 #: STRINGS.UI.REASON.CANT_MELEE_REACH
 msgctxt "STRINGS.UI.REASON.CANT_MELEE_REACH"
 msgid "TOO FAR: Target must be adjacent"
-msgstr ""
+msgstr "距离太远: 目标必须是可达的"
 
 #: STRINGS.UI.REASON.CANT_REACH
 msgctxt "STRINGS.UI.REASON.CANT_REACH"
@@ -14552,7 +14552,7 @@ msgstr "充电完成"
 #: STRINGS.UI.REASON.CONSOLE_LOCKED
 msgctxt "STRINGS.UI.REASON.CONSOLE_LOCKED"
 msgid "Console locked"
-msgstr ""
+msgstr "控制台锁定"
 
 #: STRINGS.UI.REASON.COOLDOWN
 msgctxt "STRINGS.UI.REASON.COOLDOWN"
@@ -14612,22 +14612,22 @@ msgstr "这台机器是闲置的"
 #: STRINGS.UI.REASON.MACHINE_USED
 msgctxt "STRINGS.UI.REASON.MACHINE_USED"
 msgid "This machine has been used"
-msgstr ""
+msgstr "这台机器已经被使用了"
 
 #: STRINGS.UI.REASON.MONST3R_REQUIRED
 msgctxt "STRINGS.UI.REASON.MONST3R_REQUIRED"
 msgid "Monst3r needs to manually open this after obtaining the security codes from the Security Hub."
-msgstr ""
+msgstr "在从the Security Hub得到安全码之后Monst3r需要手动打开它 "
 
 #: STRINGS.UI.REASON.MUST_TOGGLE_BEFORE_MP
 msgctxt "STRINGS.UI.REASON.MUST_TOGGLE_BEFORE_MP"
 msgid "Must have full AP to use"
-msgstr ""
+msgstr "必须拥有满的AP才能使用"
 
 #: STRINGS.UI.REASON.NOT_CARRIED
 msgctxt "STRINGS.UI.REASON.NOT_CARRIED"
 msgid "Not carried"
-msgstr ""
+msgstr "不可被搬运的"
 
 #: STRINGS.UI.REASON.NOT_CARRYABLE
 msgctxt "STRINGS.UI.REASON.NOT_CARRYABLE"
@@ -14637,7 +14637,7 @@ msgstr ""
 #: STRINGS.UI.REASON.NOT_ENOUGH_CREDITS
 msgctxt "STRINGS.UI.REASON.NOT_ENOUGH_CREDITS"
 msgid "Not enough credits"
-msgstr ""
+msgstr "没有足够的CR"
 
 #: STRINGS.UI.REASON.NOT_ENOUGH_PWR
 msgctxt "STRINGS.UI.REASON.NOT_ENOUGH_PWR"
@@ -14647,12 +14647,12 @@ msgstr "没有足够的PWR"
 #: STRINGS.UI.REASON.NOT_EXIT
 msgctxt "STRINGS.UI.REASON.NOT_EXIT"
 msgid "Not an exit"
-msgstr ""
+msgstr "不是一个出口"
 
 #: STRINGS.UI.REASON.NO_AMMO
 msgctxt "STRINGS.UI.REASON.NO_AMMO"
 msgid "No Ammo"
-msgstr ""
+msgstr "没有弹药"
 
 #: STRINGS.UI.REASON.NO_ARCHDAEMON_INHIBITOR
 msgctxt "STRINGS.UI.REASON.NO_ARCHDAEMON_INHIBITOR"
@@ -14662,17 +14662,17 @@ msgstr ""
 #: STRINGS.UI.REASON.NO_CAMERAS
 msgctxt "STRINGS.UI.REASON.NO_CAMERAS"
 msgid "No remaining uncaptured cameras"
-msgstr ""
+msgstr "没有剩余未占领的摄像机"
 
 #: STRINGS.UI.REASON.NO_DAEMON
 msgctxt "STRINGS.UI.REASON.NO_DAEMON"
 msgid "No Daemon detected"
-msgstr ""
+msgstr "没有发现守护进程"
 
 #: STRINGS.UI.REASON.NO_DAEMONS
 msgctxt "STRINGS.UI.REASON.NO_DAEMONS"
 msgid "No Daemons"
-msgstr ""
+msgstr "没有守护进程"
 
 #: STRINGS.UI.REASON.NO_GUN
 msgctxt "STRINGS.UI.REASON.NO_GUN"
@@ -14687,12 +14687,12 @@ msgstr "没有防火墙"
 #: STRINGS.UI.REASON.NO_INJURED_TARGETS
 msgctxt "STRINGS.UI.REASON.NO_INJURED_TARGETS"
 msgid "NO INJURED TARGETS"
-msgstr ""
+msgstr "没有受损目标"
 
 #: STRINGS.UI.REASON.NO_INVENTORY
 msgctxt "STRINGS.UI.REASON.NO_INVENTORY"
 msgid "No Inventory"
-msgstr ""
+msgstr "库存为空"
 
 #: STRINGS.UI.REASON.NO_MAGAZINE
 msgctxt "STRINGS.UI.REASON.NO_MAGAZINE"
@@ -14702,22 +14702,22 @@ msgstr "没有弹药"
 #: STRINGS.UI.REASON.NO_MELEE_WEAPON
 msgctxt "STRINGS.UI.REASON.NO_MELEE_WEAPON"
 msgid "No Melee Weapon"
-msgstr ""
+msgstr "没有格斗武器"
 
 #: STRINGS.UI.REASON.NO_PEEK
 msgctxt "STRINGS.UI.REASON.NO_PEEK"
 msgid "Nothing to peek"
-msgstr ""
+msgstr "没有可窥视的东西"
 
 #: STRINGS.UI.REASON.NO_POWER_PACK
 msgctxt "STRINGS.UI.REASON.NO_POWER_PACK"
 msgid "No Power Pack"
-msgstr ""
+msgstr "没有能量包"
 
 #: STRINGS.UI.REASON.NO_PROGRAM
 msgctxt "STRINGS.UI.REASON.NO_PROGRAM"
 msgid "No program equipped"
-msgstr ""
+msgstr "没有安装"
 
 #: STRINGS.UI.REASON.NO_ROOM_FOR_DAEMON
 msgctxt "STRINGS.UI.REASON.NO_ROOM_FOR_DAEMON"
@@ -14737,7 +14737,7 @@ msgstr ""
 #: STRINGS.UI.REASON.NO_VIABLE_TARGET
 msgctxt "STRINGS.UI.REASON.NO_VIABLE_TARGET"
 msgid "No viable targets"
-msgstr ""
+msgstr "没有可行目标"
 
 #: STRINGS.UI.REASON.NO_WEAPON
 msgctxt "STRINGS.UI.REASON.NO_WEAPON"
@@ -14837,7 +14837,7 @@ msgstr ""
 #: STRINGS.UI.RECAP.PURCHASES
 msgctxt "STRINGS.UI.RECAP.PURCHASES"
 msgid "COST OF PURCHASES"
-msgstr ""
+msgstr "购买的物品的花费"
 
 #: STRINGS.UI.RECAP.SAFES
 msgctxt "STRINGS.UI.RECAP.SAFES"
@@ -14862,7 +14862,7 @@ msgstr "重新装备"
 #: STRINGS.UI.REGEN_LEVEL
 msgctxt "STRINGS.UI.REGEN_LEVEL"
 msgid "REGENERATE LEVEL"
-msgstr ""
+msgstr "回收等级"
 
 #: STRINGS.UI.REGEN_LEVEL_BODY
 msgctxt "STRINGS.UI.REGEN_LEVEL_BODY"
@@ -14877,7 +14877,7 @@ msgstr ""
 #: STRINGS.UI.RESCUED
 msgctxt "STRINGS.UI.RESCUED"
 msgid "RESCUED"
-msgstr ""
+msgstr "救援"
 
 #: STRINGS.UI.RETIRE_AGENCY
 msgctxt "STRINGS.UI.RETIRE_AGENCY"
@@ -15012,7 +15012,7 @@ msgstr ""
 #: STRINGS.UI.SCANNER_ALERT_TITLE
 msgctxt "STRINGS.UI.SCANNER_ALERT_TITLE"
 msgid "SCANNING AMP"
-msgstr ""
+msgstr "定位探测仪"
 
 #: STRINGS.UI.SCANNER_ALERT_TXT
 msgctxt "STRINGS.UI.SCANNER_ALERT_TXT"
@@ -15162,7 +15162,7 @@ msgstr ""
 #: STRINGS.UI.SMALLCATSHOP_OPEN.3
 msgctxt "STRINGS.UI.SMALLCATSHOP_OPEN.3"
 msgid "YOUR ONE-STOP SOFTWARE SHOP."
-msgstr ""
+msgstr "你的一站式软件商店"
 
 #: STRINGS.UI.SMALLCATSHOP_OPEN.4
 msgctxt "STRINGS.UI.SMALLCATSHOP_OPEN.4"
@@ -15252,7 +15252,7 @@ msgstr ""
 #: STRINGS.UI.THOUGHTVIS_TOOLTIPS.engaged
 msgctxt "STRINGS.UI.THOUGHTVIS_TOOLTIPS.engaged"
 msgid "Intruders spotted"
-msgstr ""
+msgstr "发现入侵者"
 
 #: STRINGS.UI.THOUGHTVIS_TOOLTIPS.fleeing
 msgctxt "STRINGS.UI.THOUGHTVIS_TOOLTIPS.fleeing"
@@ -15347,7 +15347,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.EMPTY_PROGRAM_SLOT
 msgctxt "STRINGS.UI.TOOLTIPS.EMPTY_PROGRAM_SLOT"
 msgid "<c:F4FF78>EMPTY PROGRAM SLOT</>\nAcquire new programs for empty program slots."
-msgstr ""
+msgstr "<c:F4FF78>空的程序槽</>\n为空的程序槽获得新的程序."
 
 #: STRINGS.UI.TOOLTIPS.EMPTY_SLOT
 msgctxt "STRINGS.UI.TOOLTIPS.EMPTY_SLOT"
@@ -15482,7 +15482,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_GRID"
 msgid "%s GRID"
-msgstr ""
+msgstr "%s GRID"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT"
@@ -15492,7 +15492,7 @@ msgstr "骇入{1}"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_HIDDEN_DAEMON
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_HIDDEN_DAEMON"
 msgid "HIDDEN DAEMON"
-msgstr ""
+msgstr "隐藏的守护进程"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_INACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_INACTIVE"
@@ -15537,7 +15537,7 @@ msgstr "重启..."
 #: STRINGS.UI.TOOLTIPS.NOT_INSTALLED
 msgctxt "STRINGS.UI.TOOLTIPS.NOT_INSTALLED"
 msgid "NOT INSTALLED"
-msgstr ""
+msgstr "没有安装"
 
 #: STRINGS.UI.TOOLTIPS.NOT_STACKABLE
 msgctxt "STRINGS.UI.TOOLTIPS.NOT_STACKABLE"
@@ -15577,7 +15577,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS"
 msgid "PROTECTIVE SHIELDS %d"
-msgstr ""
+msgstr "防护罩 %d"
 
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC"
@@ -15587,7 +15587,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.PWR_STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.PWR_STEAL"
 msgid "<ttbody><ttheader2>STEAL {1} PWR</></>"
-msgstr ""
+msgstr "<ttbody><ttheader2>偷窃 {1} PWR</></>"
 
 #: STRINGS.UI.TOOLTIPS.RETURN_FOR_CREDIT
 msgctxt "STRINGS.UI.TOOLTIPS.RETURN_FOR_CREDIT"
@@ -15717,7 +15717,7 @@ msgstr "占领"
 #: STRINGS.UI.TOOLTIP_HACK_CAMERA_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_CAMERA_DB"
 msgid "Reveals the location of all cameras"
-msgstr ""
+msgstr "暴露本地所有摄像头"
 
 #: STRINGS.UI.TOOLTIP_HACK_CONSOLE_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_CONSOLE_DB"
@@ -15727,7 +15727,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_HACK_DAEMON_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_DAEMON_DB"
 msgid "Identifies Daemons in the mainframe"
-msgstr ""
+msgstr "在主机中识别守护进程"
 
 #: STRINGS.UI.TOOLTIP_HACK_GUARD_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_GUARD_DB"
@@ -15757,7 +15757,7 @@ msgstr "使用INCOGINTA骇入"
 #: STRINGS.UI.TOOLTIP_INACTIVE
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE"
 msgid "INACTIVE"
-msgstr "INACTIVE"
+msgstr "不活跃的"
 
 #: STRINGS.UI.TOOLTIP_INACTIVE_DESC
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE_DESC"
@@ -15767,7 +15767,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_INVENTORY_FULL
 msgctxt "STRINGS.UI.TOOLTIP_INVENTORY_FULL"
 msgid "Unit's inventory is full!"
-msgstr ""
+msgstr "该单位的库存已满"
 
 #: STRINGS.UI.TOOLTIP_NAME_KO_TIME
 msgctxt "STRINGS.UI.TOOLTIP_NAME_KO_TIME"
@@ -15777,7 +15777,7 @@ msgstr "%s KO (%d)"
 #: STRINGS.UI.TOOLTIP_NAME_PARALYZED
 msgctxt "STRINGS.UI.TOOLTIP_NAME_PARALYZED"
 msgid "%s PARALYZED"
-msgstr ""
+msgstr "%s 麻痹"
 
 #: STRINGS.UI.TOOLTIP_NOT_ENOUGH_CREDIT
 msgctxt "STRINGS.UI.TOOLTIP_NOT_ENOUGH_CREDIT"
@@ -15787,7 +15787,7 @@ msgstr "资金不足"
 #: STRINGS.UI.TOOLTIP_PROGRAMS_FULL
 msgctxt "STRINGS.UI.TOOLTIP_PROGRAMS_FULL"
 msgid "You already have maximum mainframe programs!"
-msgstr ""
+msgstr "你已经拥有最大数量的主机程序了！"
 
 #: STRINGS.UI.TOOLTIP_REQUIRES_SKILL_LVL
 msgctxt "STRINGS.UI.TOOLTIP_REQUIRES_SKILL_LVL"
@@ -15807,7 +15807,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_TAGGED
 msgctxt "STRINGS.UI.TOOLTIP_TAGGED"
 msgid "TAGGED"
-msgstr ""
+msgstr "标记"
 
 #: STRINGS.UI.TOOLTIP_TAGGED_DESC
 msgctxt "STRINGS.UI.TOOLTIP_TAGGED_DESC"
@@ -15867,7 +15867,7 @@ msgstr "%d CR"
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM"
 msgid "Apply your Agent upgrades?"
-msgstr ""
+msgstr "应用在你的特工升级上？"
 
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM_BUY
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM_BUY"
@@ -15922,7 +15922,7 @@ msgstr "不能使用能力"
 #: STRINGS.UI.WARNING_CONSCIOUSNESS_MONITOR
 msgctxt "STRINGS.UI.WARNING_CONSCIOUSNESS_MONITOR"
 msgid "ALERT\nCONSCIOUSNESS MONITOR"
-msgstr ""
+msgstr "警告\n意识监控"
 
 #: STRINGS.UI.WARNING_MAX_AGENTS
 msgctxt "STRINGS.UI.WARNING_MAX_AGENTS"
@@ -15977,7 +15977,7 @@ msgstr "这里没有有效路径"
 #: STRINGS.UI.WARNING_NO_TARGETS
 msgctxt "STRINGS.UI.WARNING_NO_TARGETS"
 msgid "No valid targets."
-msgstr ""
+msgstr "没有有效目标"
 
 #: STRINGS.UI.WARNING_OBSERVE_GUARD
 msgctxt "STRINGS.UI.WARNING_OBSERVE_GUARD"
@@ -15992,12 +15992,12 @@ msgstr "在你继续行动之前观察他"
 #: STRINGS.UI.WARNING_PEEK_GUARD
 msgctxt "STRINGS.UI.WARNING_PEEK_GUARD"
 msgid "Peek through the door."
-msgstr "透过门偷看"
+msgstr "透过门窥视"
 
 #: STRINGS.UI.WARNING_PEEK_GUARD_2
 msgctxt "STRINGS.UI.WARNING_PEEK_GUARD_2"
 msgid "Peeking from the side of the door is safer."
-msgstr "从门的一侧偷看更加安全"
+msgstr "从门的一侧窥视更加安全"
 
 #: STRINGS.UI.WARNING_RECAPTURE
 msgctxt "STRINGS.UI.WARNING_RECAPTURE"
@@ -16037,5 +16037,5 @@ msgstr "祝贺您通关专家模式！\n 如果您想体验终极挑战，可以
 #: STRINGS.WIN_TIPS.EXPERT_PLUS
 msgctxt "STRINGS.WIN_TIPS.EXPERT_PLUS"
 msgid "Thank you for playing!\nFor even more variety, you can try our Time Attack and Endless options."
-msgstr "感谢您通关！\n 如果您想要体验更多的类型，您可以尝试无尽模式,"
+msgstr "感谢您通关！\n 如果您想要体验更多的类型，您可以尝试无尽模式."
 
