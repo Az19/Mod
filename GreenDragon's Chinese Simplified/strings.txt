@@ -3166,157 +3166,157 @@ msgstr "当特工被敌人发现时获得 2 AP(包括周边视野)"
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING"
 msgid "Distributed Processing"
-msgstr ""
+msgstr "分布式处理"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_FLAVOR"
 msgid "There is plenty of room in the human body to pack in additional processing power. Artificial neural bundles may be implanted into any major muscle mass with minimal loss of strength."
-msgstr ""
+msgstr "在人的体内有许多的空间可以用来增强处理能力。人工神经束可以植入任何主肌肉块中并只会对体能造成极小的损耗"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_TIP"
 msgid "50% chance to gain a PWR point at the beginning of each turn."
-msgstr ""
+msgstr "每回合开始时有 50% 几率获得 1 点 PWR"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS"
 msgid "Dead Man's Switch"
-msgstr ""
+msgstr "死人的开关"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS_FLAVOR"
 msgid "Killing the host triggers the switch, but for what purpose?"
-msgstr ""
+msgstr "杀掉宿主触发开关，但是为什么这样做呢？"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS_TIP"
 msgid "Activates when host dies."
-msgstr ""
+msgstr "宿主时激活"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL"
 msgid "OMNI Security Chip"
-msgstr ""
+msgstr "OMNI 安全芯片"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_FLAVOR"
 msgid "Filled with OMNI security algorithms. Easily the most valuable megabyte and a half of data in the world."
-msgstr ""
+msgstr "装满了 OMNI 的 安保算法。无疑是最有价值的一段字节码和这世界一半的数据"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_TIP"
 msgid "Bring to the final security door to unlock"
-msgstr ""
+msgstr "使最终的安全门解锁"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT"
 msgid "HoloCircuit Overloaders"
-msgstr ""
+msgstr "全息回路超载"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_FLAVOR"
 msgid "Modern tactical displays stream terabytes of situational data directly into the corneas of security forces. They also provide an avenue of attack."
-msgstr ""
+msgstr "现代战术显示设备流出的态势信息流直接进入安保部队眼角膜。产生范围攻击。"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP"
 msgid "Knock out all enemies in a small area around this agent"
-msgstr ""
+msgstr "击晕特工周边小范围内的所有敌人。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS"
 msgid "Wireless Emitter"
-msgstr ""
+msgstr "无线发射器"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2"
 msgid "Network Siphon"
-msgstr ""
+msgstr "网络虹吸"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_FLAVOR"
 msgid "The mark of a great agent is the ability to take your enemy's greatest strength and turn it into their weakness."
-msgstr ""
+msgstr "拥有把敌人最大的优势转变为其弱点的能力是一名优秀特工的标志"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_TIP"
 msgid "Generates PWR when ALARM LEVEL increases.\nPWR gained: 2x Alarm Level."
-msgstr ""
+msgstr "当警报等级提高时产生 PWR\nPWR 获取：2x警报等级。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR"
 msgid "Using her skin as an antenna, Internationale is able to manipulate electronics at a distance."
-msgstr ""
+msgstr "用她的皮肤作为天线，Internationale 可以远距离操作电子设备。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP"
 msgid "Allows agent to hack items from a distance, through walls. Automatically reveals nearby mainframe objects."
-msgstr ""
+msgstr "允许特工远距离，隔墙黑入设备。自动侦测并显示周围主机设备。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS"
 msgid "MicroSLAM Apparatus"
-msgstr ""
+msgstr "微型定绘装置"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_FLAVOR"
 msgid "This embedded apparatus implements SLAM (Simultaneous Localization and Mapping) to create an environment map of explored regions and automatically updates the data to the central servers."
-msgstr ""
+msgstr "这个嵌入式的装置拥有同步定位与绘图的功能，执行任务时它可以根据探索的区域创建新的环境地图并自动上传到中央服务器。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP"
 msgid "Converts the percentage of the map explored into some extra credit."
-msgstr ""
+msgstr "根据地图探索的百分比来转换额外的 CR。"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS"
 msgid "Fabricator Multithreading"
-msgstr ""
+msgstr "多线程打印"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS_FLAVOR"
 msgid "As an expert hacker and savvy tech opportunist, Monst3r has built a unique network of hyper efficient Nanofabricator coroutines."
-msgstr ""
+msgstr "作为一个专家级的黑客与懂行的科技投机者，Monst3r 建立了一个独特的超效纳米打印机协同程序网络"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS_TIP"
 msgid "Nanofabricator purchases cost 15% less."
-msgstr ""
+msgstr "纳米打印机费用减少 15%"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK"
 msgid "Net Downlink"
-msgstr ""
+msgstr "网络下行线"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_FLAVOR"
 msgid "Offloads some basic brain functions to a remote server, allowing the host to focus on more pressing matters."
-msgstr ""
+msgstr "把一些基础的脑功能卸载到远程服务器上，使宿主专注于更紧迫的事情。"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_TIP"
 msgid "Agent gains 2 AP (MAX: 6 AP)"
-msgstr ""
+msgstr "特工获得 2 AP (MAX: 6 AP)"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS"
 msgid "Adrenal Regulator"
-msgstr ""
+msgstr "肾上腺素调节器"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2"
 msgid "Discharge Re-router"
-msgstr ""
+msgstr "放电重路由"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2_FLAVOR"
 msgid "Nika loves scrambling neurons so much, she had a tech write a custom routine that makes her disrupter recharge itself and everything around it."
-msgstr ""
+msgstr "Nika 非常热爱电晕她的敌人，她有一个通过写入自定义程序使她的破坏者以及其他装备重新充电的技术。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2_TIP"
 msgid "Once per turn, agent's DISRUPTER ATTACK reduces all ITEM COOLDOWNS by 1"
-msgstr ""
+msgstr "每回合一次，特工使用破坏者攻击敌人可以使装备冷却减少 1 回合"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_FLAVOR"
